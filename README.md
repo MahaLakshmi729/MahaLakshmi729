@@ -9,13 +9,9 @@
 ### <center>The Best Thing about Boolean is even if you are wrong, you are only off by a bit.<center>
 ---
 > ## About 
-> - ### I am currently learning 
->   ##### 1. Java 
->   ##### 2. Python
->   ##### 3. Servlet 
->   ##### 4. Web development 
+> - #### 🌱 I am currently learning java,python,frontend development,.NET
 > ----
->  - #### You can reach me at <maha422004@gmail.com>
+>  - #### 📫 You can reach me at <maha422004@gmail.com>
 > ---
 > 
 >## Connect with me
