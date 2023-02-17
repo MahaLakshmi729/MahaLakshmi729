@@ -9,7 +9,7 @@
 ### <center>The Best Thing about Boolean is even if you are wrong, you are only off by a bit.<center>
 ---
 > ## About 
-> - #### 🌱 I am currently learning java,python,frontend development,.NET
+> - #### 🌱 I am currently learning python,frontend development,.NET
 > ----
 >  - #### 📫 You can reach me at <maha422004@gmail.com>
 > ---
