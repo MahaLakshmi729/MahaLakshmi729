@@ -39,23 +39,27 @@
 <a href="https://www.linkedin.com/in/mahalakshmi-g-66630b252/"><img src='assets/icons8-linkedin-48.png' width="48px" hspace="8" ></a> 
 </div>
 
-## Languages :
+### :hammer_and_wrench: Languages and Tools :
+ 
 <div>
-<img src='assets/python.png' width="48px" hspace="8" >
-<img src='assets/javascript.png' width="48px" hspace="8" >
-<img src='assets/html.png' width="48px" hspace="8" >
-<img src='assets/css.png' width="48px" hspace="8" >
-<img src='assets/java.png' width="48px" hspace="8" >
-<img src='assets/icons8-C#.png' width="48px" hspace="8" >
-<img src='assets/visualbasis.png' width="48px" hspace="8" >
-<img src='assets/c.png' width="48px" hspace="8" >
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"  title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
+  
 </div>
 
+<br>
+<br>
+<div align='center'>
 
----
-### <center>The Best Thing about Boolean is even if you are wrong, you are only off by a bit.<center>
----
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
  
 
  
