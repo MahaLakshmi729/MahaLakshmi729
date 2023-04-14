@@ -33,11 +33,19 @@
 <div align="left">
 
 ## Connect with me:
-<div padding="8px">
-<a href="https://www.instagram.com/_mahagopi_7/"><img src='assets/icons8-instagram-48.png' width="48px" hspace="8" ></a>    
-<a href="mailto:maha422004@gmail.com"><img src="assets/icons8-gmail-48.png" width="48px" hspace="8"></a>
-<a href="https://www.linkedin.com/in/mahalakshmi-g-66630b252/"><img src='assets/icons8-linkedin-48.png' width="48px" hspace="8" ></a> 
+
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/mahalakshmi-g-66630b252/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/_mahagopi_7/">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:maha422004@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="GMAIL Badge"/>
+  </a>
 </div>
+
 
 ### :hammer_and_wrench: Languages and Tools :
  
