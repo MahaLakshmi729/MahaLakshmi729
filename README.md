@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47rp0p3tp2mym1gb0av35pivm0fs40nmqsdzqk7uu8&rid=giphy.gif&ct=g" width="350"/>
 
-<h3  align="center">PhiloMath<br>Visionary Web Developer<br> Python Programmer studying Data science. <img src='assets/ai.png' width="32px"><br> </h3>
+<h3  align="center">PhiloMath<br>Visionary Web Developer<br> <img src='assets/ai.png' width="32px"><br> </h3>
 <div align='center'>
 
 
