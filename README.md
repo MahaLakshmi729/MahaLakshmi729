@@ -7,28 +7,28 @@
 
 ---
 # <center>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , i am  MahaLakshmi<center>
-
 ---
 
-<h4 align="left"> ### :woman_technologist: About Me : </h4>
+<h4 align="left"> 
+:woman_technologist: About Me : </h4>
 <p>I'm an undergrad student purusing CS. I am into web development and machine learning so I play around with related technologies.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 
 ---
   #### INTERESTED: [FULL-STACK DEVELOPMENT,MACHINE LEARNING]
 ---
 
-### :fire: My Stats :
+### <div align="left"> :fire: My Stats :
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MahaLakshmi729&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MahaLakshmi729&theme=dark&background=000000)](https://git.io/streak-stats)
+<br> 
+![Mahalakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahaLakshmi729&show_icons=true&theme=vision-friendly-dark&border_radius=20&bg_color=000000)
 <br>
-  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaLakshmi729&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-![beetran's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahaLakshmi729&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaLakshmi729&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 <div align="left">
 
-## Connect with me:
+ 
+  ## Connect with me:
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/mahalakshmi-g-66630b252/">
