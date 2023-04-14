@@ -1,32 +1,62 @@
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47rp0p3tp2mym1gb0av35pivm0fs40nmqsdzqk7uu8&rid=giphy.gif&ct=g" width="350"/>
+
+<h3  align="center">PhiloMath<br>Visionary Web Developer<br> Python Programmer studying Data science. <img src='assets/ai.png' width="32px"><br> </h3>
+<div align='center'>
+
 
 ---
-# <center>Hi 👋 , i am a MahaLakshmi<center>
+# <center>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , i am  MahaLakshmi<center>
 
 ---
 
-## <center>A Programming Enthusiast...<center>
+<h4 align="left"> ### :woman_technologist: About Me : </h4>
+<p>I'm an undergrad student purusing CS. I am into web development and machine learning so I play around with related technologies.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 
+---
+  #### INTERESTED: [FULL-STACK DEVELOPMENT,MACHINE LEARNING]
+---
+
+### :fire: My Stats :
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MahaLakshmi729&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmi729&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+## Tech-stack Stats 📈
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmi729&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="left">
+
+## Connect with me:
+<div padding="8px">
+<a href="https://www.instagram.com/_mahagopi_7/"><img src='assets/icons8-instagram-48.png' width="48px" hspace="8" ></a>    
+<a href="mailto:maha422004@gmail.com"><img src="assets/icons8-gmail-48.png" width="48px" hspace="8"></a>
+<a href="https://www.linkedin.com/in/mahalakshmi-g-66630b252/"><img src='assets/icons8-linkedin-48.png' width="48px" hspace="8" ></a> 
+</div>
+
+## Languages :
+<div>
+<img src='assets/python.png' width="48px" hspace="8" >
+<img src='assets/javascript.png' width="48px" hspace="8" >
+<img src='assets/html.png' width="48px" hspace="8" >
+<img src='assets/css.png' width="48px" hspace="8" >
+<img src='assets/java.png' width="48px" hspace="8" >
+<img src='assets/icons8-C#.png' width="48px" hspace="8" >
+<img src='assets/visualbasis.png' width="48px" hspace="8" >
+<img src='assets/c.png' width="48px" hspace="8" >
+
+</div>
+
+
+---
 ### <center>The Best Thing about Boolean is even if you are wrong, you are only off by a bit.<center>
 ---
-> ## About 
-> - #### 🌱 I am currently learning python,frontend development,.NET
-> ----
->  - #### 📫 You can reach me at <maha422004@gmail.com>
-> ---
-> 
->## Connect with me
->[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/maha-gopi-66630b252/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_mahagopi_7)
-[<img src= "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/maha422004)
->
-><h3 align="left">Languages and Tools:</h3>
-><p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a><a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasics/visualbasics-original.svg" alt="kotlin" width="40" height="40"/> </a></p>
----
-# Stats
- <div style="display:flex;width:100%;justify-content: space-evenly;">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahalakshmi729&show_icons=true&locale=en" alt="mahalakshmi729" />
- <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahalakshmi729&show_icons=true&locale=en&layout=compact" alt="mahalakshmi729"/></div>
  
- ---
+
+ 
  
