@@ -6,15 +6,15 @@
 
 
 ---
-# <center>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , i am  MahaLakshmi<center>
+# <center>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , i am  Mahalakshmi<center>
 ---
 
 <h4 align="left"> 
 :woman_technologist: About Me : </h4>
-<p>I'm an undergrad student purusing CS. I am into web development and machine learning so I play around with related technologies.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
+<p>I'm an undergrad student pursuing CS. I am into web development and machine learning so I play around with related technologies.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 
 ---
-  #### INTERESTED: [FULL-STACK DEVELOPMENT,MACHINE LEARNING]
+  #### INTERESTED: [FULL-STACK DEVELOPMENT, MACHINE LEARNING]
 ---
 
 ### <div align="left"> :fire: My Stats :
