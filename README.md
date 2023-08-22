@@ -34,9 +34,6 @@
   <a href="https://www.linkedin.com/in/mahalakshmi-g-66630b252/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/_mahagopi_7/">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
   <a href="mailto:maha422004@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="GMAIL Badge"/>
   </a>
