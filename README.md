@@ -10,14 +10,14 @@
 ---
 
 <h4 align="left"> 
-:woman_technologist: About Me : </h4>
+: About Me : </h4>
 <p>I'm an undergrad student pursuing CS. I am into web development and machine learning so I play around with related technologies.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 
 ---
   #### INTERESTED: [FULL-STACK DEVELOPMENT, MACHINE LEARNING]
 ---
 
-### <div align="left"> :fire: My Stats :
+### <div align="left"> :My Stats :
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MahaLakshmi729&theme=dark&background=000000)](https://git.io/streak-stats)
 <br> 
@@ -39,7 +39,7 @@
   </a>
 </div>
 
-### :hammer_and_wrench: Languages known :
+### Languages known :
  
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
@@ -53,7 +53,7 @@
     
 </div>
 
-### :hammer_and_wrench: Currently learning :
+### Currently learning :
  
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
