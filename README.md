@@ -37,6 +37,9 @@
   <a href="mailto:maha422004@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="GMAIL Badge"/>
   </a>
+  <a href="https://leetcode.com/maha422004/">
+    <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
+  </a>
 </div>
 
 ### Languages known :
